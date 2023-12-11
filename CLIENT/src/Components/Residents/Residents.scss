@@ -1,0 +1,8 @@
+.residents{
+    display: flex;
+    flex-direction: column;
+
+    &__card{
+        padding: 0.25rem;
+    }
+}
